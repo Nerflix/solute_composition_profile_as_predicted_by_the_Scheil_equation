@@ -1,0 +1,2 @@
+# solute_composition_profile_as_predicted_by_the_Scheil_equation
+Predicted solute composition profile as predicted by the Scheil equation
